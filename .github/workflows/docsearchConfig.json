@@ -4,42 +4,7 @@
     {
       "url": "https://ethereum.org/(?P<lang>.*?)/",
       "variables": {
-        "lang": [
-          "en",
-          "ar",
-          "bn",
-          "cs",
-          "de",
-          "el",
-          "es",
-          "fa",
-          "fi",
-          "fr",
-          "hi",
-          "hu",
-          "id",
-          "ig",
-          "it",
-          "ja",
-          "ko",
-          "lt",
-          "ml",
-          "nb",
-          "nl",
-          "pl",
-          "pt",
-          "pt-br",
-          "ru",
-          "sk",
-          "sl",
-          "ro",
-          "se",
-          "tr",
-          "uk",
-          "vi",
-          "zh",
-          "zh-tw"
-        ]
+        "lang": ["en"]
       }
     }
   ],

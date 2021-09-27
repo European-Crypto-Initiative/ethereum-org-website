@@ -171,6 +171,16 @@ const Nav = ({ handleThemeChange, isDarkTheme, path }) => {
       ],
     },
     {
+      text: "engage",
+      ariaLabel: "engage-menu",
+      items: [
+        {
+          text: "engage-main",
+          to: "/engage/",
+        },
+      ],
+    },
+    {
       text: "learn",
       ariaLabel: "learn-menu",
       items: [
