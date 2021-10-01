@@ -15,7 +15,7 @@ module.exports = {
     author: `@ethereum`,
     defaultLanguage,
     supportedLanguages,
-    editContentUrl: `https://github.com/ethereum/ethereum-org-website/tree/dev/`,
+    editContentUrl: `https://github.com/European-Crypto-Initiative/ethereum-org-website/tree/dev/`,
   },
   plugins: [
     // i18n support

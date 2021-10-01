@@ -145,42 +145,6 @@ const Nav = ({ handleThemeChange, isDarkTheme, path }) => {
 
   const linkSections = [
     {
-      text: "use-ethereum",
-      ariaLabel: "use-ethereum-menu",
-      items: [
-        {
-          text: "ethereum-wallets",
-          to: "/wallets/",
-        },
-        {
-          text: "get-eth",
-          to: "/get-eth/",
-        },
-        {
-          text: "decentralized-applications-dapps",
-          to: "/dapps/",
-        },
-        {
-          text: "page-stablecoins-title",
-          to: "/stablecoins/",
-        },
-        {
-          text: "page-stake-eth",
-          to: "/eth2/staking/",
-        },
-      ],
-    },
-    {
-      text: "engage",
-      ariaLabel: "engage-menu",
-      items: [
-        {
-          text: "engage-main",
-          to: "/engage/",
-        },
-      ],
-    },
-    {
       text: "learn",
       ariaLabel: "learn-menu",
       items: [
@@ -235,56 +199,52 @@ const Nav = ({ handleThemeChange, isDarkTheme, path }) => {
       ],
     },
     {
-      text: "developers",
-      ariaLabel: "page-developers-aria-label",
+      text: "engage",
+      ariaLabel: "engage-menu",
       items: [
         {
-          text: "developers-home",
-          to: "/developers/",
+          text: "engage-policy-issues",
+          to: "/engage/policy-issues/",
         },
         {
-          text: "documentation",
-          to: "/developers/docs/",
+          text: "engage-donation",
+          to: "/engage/donation/",
         },
         {
-          text: "tutorials",
-          to: "/developers/tutorials/",
-        },
-        {
-          text: "learn-by-coding",
-          to: "/developers/learning-tools/",
-        },
-        {
-          text: "set-up-local-env",
-          to: "/developers/local-environment/",
+          text: "engage-partnership",
+          to: "/engage/partnership/",
         },
       ],
     },
     {
-      text: "enterprise",
-      ariaLabel: "enterprise-menu",
+      text: "about-euci",
+      ariaLabel: "about-euci-menu",
       items: [
         {
-          text: "mainnet-ethereum",
-          to: "/enterprise/",
+          text: "about-euci-values",
+          to: "/values/",
         },
         {
-          text: "private-ethereum",
-          to: "/enterprise/private-ethereum/",
+          text: "about-euci-team",
+          to: "/team/",
+        },
+        {
+          text: "about-euci-supporters",
+          to: "/supporters/",
         },
       ],
     },
     {
-      text: "community",
-      ariaLabel: "community-menu",
+      text: "publications",
+      ariaLabel: "publications-menu",
       items: [
         {
-          text: "ethereum-community",
-          to: "/community/",
+          text: "publications-list",
+          to: "/publications/",
         },
         {
-          text: "grants",
-          to: "/community/grants/",
+          text: "publications-subscribe",
+          to: "/publications/subscribe/",
         },
       ],
     },
