@@ -465,35 +465,19 @@ const HomePage = ({ data }) => {
     },
   ]
 
-  const touts = [
-    {
-      image: data.merge.childImageSharp.fixed,
-      alt: translateMessageId("page-index-tout-eth2-image-alt", intl),
-      title: translateMessageId("page-index-tout-eth2-title", intl),
-      description: translateMessageId("page-index-tout-eth2-description", intl),
-      to: "/eth2/",
-    },
-    {
-      image: data.infrastructurefixed.childImageSharp.fixed,
-      alt: translateMessageId("page-index-tout-enterprise-image-alt", intl),
-      title: translateMessageId("page-index-tout-enterprise-title", intl),
-      description: translateMessageId(
-        "page-index-tout-enterprise-description",
-        intl
-      ),
-      to: "/enterprise/",
-    },
-    {
-      image: data.enterprise.childImageSharp.fixed,
-      alt: translateMessageId("page-index-tout-community-image-alt", intl),
-      title: translateMessageId("page-index-tout-community-title", intl),
-      description: translateMessageId(
-        "page-index-tout-community-description",
-        intl
-      ),
-      to: "/community/",
-    },
-  ]
+  const touts = data.blogposts.edges.map((post) => ({
+    image: data.enterprise.childImageSharp.fixed,
+    alt: post.node.fields.slug,
+    title: translateMessageId("page-index-tout-community-title", intl),
+    description: translateMessageId(
+      "page-index-tout-community-description",
+      intl
+    ),
+    to: post.node.fields.slug,
+  }))
+
+  console.log("BLOGPOSTS")
+  console.log(data.blogposts)
 
   return (
     <Page>
@@ -842,6 +826,18 @@ export const query = graphql`
       childImageSharp {
         fixed(width: 320) {
           ...GatsbyImageSharpFixed
+        }
+      }
+    }
+    blogposts: allMdx(
+      limit: 3
+      filter: { fields: { slug: { regex: "//[^/]+/blog/.*/" } } }
+    ) {
+      edges {
+        node {
+          fields {
+            slug
+          }
         }
       }
     }
