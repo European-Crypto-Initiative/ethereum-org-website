@@ -1,10 +1,16 @@
+---
+title: MiCA & Stablecoins
+lang: en
+sidebar: true
+---
+
 ### MiCA & Stablecoins
 
 ## Money on blockchain: promoting Europe’s competitiveness through the development of a euro-stablecoins market
 
 <p style="text-align: right">
-v2 - April 27, 2021 \
-<em>EU Crypto Initiative</em></p>
+v2 - April 27, 2021 <em>EU Crypto Initiative</em>
+</p>
 
 **The market in digital representations of euros on blockchains is growing fast, raising both economic, political and societal strategic questions.**
 
@@ -53,7 +59,6 @@ The table below provides a high-level description of the current universe of sta
    <td><strong>Representation of legal money</strong>
    </td>
    <td>No
-<p>
 New money, based on multiple existing fiat currencies / government bonds
    </td>
    <td>Yes
@@ -105,7 +110,6 @@ New money, based on multiple existing fiat currencies / government bonds
    <td>Digital representation of existing value (with no fractional reserve)
    </td>
    <td>Digital representation of existing value
-<p>
 Backed by crypto-assets
    </td>
   </tr>
@@ -267,16 +271,8 @@ Get in touch with us: [contact@euci.io](mailto:contact@euci.io)_
 ## Notes
 
 [^1]: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52020PC0593
-[^2]:
-
-<p>
-     https://www.coingecko.com/fr/stablecoins
-
-[^3]:
-
-<p>
-     https://daistats.com/#/
-
+[^2]: https://www.coingecko.com/fr/stablecoins
+[^3]: https://daistats.com/#/
 [^4]: Regulation, Supervision and Oversight of “Global Stablecoin” Arrangements, FSB, 13 October 2020
 [^5]: Digital Money Across Borders: Macro-Financial Implications, IMF, October 19, 2020
 [^6]: Report on a digital euro, ECB, October 2020

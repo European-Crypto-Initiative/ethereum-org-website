@@ -1,11 +1,16 @@
+---
+title: Why Europe needs to get on the front foot on financial innovation
+lang: en
+sidebar: true
+---
+
 ![alt_text](EUCI.png "image_tooltip")
 
 # Why Europe needs to get on the front foot on financial innovation
 
-## <p style="text-align: right">
-
-February 25, 2021 \
-<em>EU Crypto Initiative</em></p>
+<p style="text-align: right">
+February 25, 2021 <em>EU Crypto Initiative</em>
+</p>
 
 ## Executive summary
 
