@@ -1,3 +1,9 @@
+---
+title: MiCA - Comments on ongoing Council discussions
+lang: en
+sidebar: true
+---
+
 # MiCA - Comments on ongoing Council discussions
 
 **CONTEXT** - This document has been drafted in response to last MiCA changes (in the latest Council compromise proposal)
@@ -28,7 +34,6 @@ The table below summarizes our views.
    <td><em>Clarification of the scope</em> - exclusion of decentralized use cases that are not controlled by a natural or legal person.
    </td>
    <td><em>Distinction between “payment ARTs” and “investment ARTs”.</em>
-<p>
 Remark: A presumption of payment for all ARTs would not appropriately qualify the actual asset class use cases.
    </td>
    <td><em>Electronic money tokens</em>:<em> lack of regulatory clarity. </em>Still lacks clarity on permitted uses cases with EMTs and required licenses.
