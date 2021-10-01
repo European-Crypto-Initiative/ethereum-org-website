@@ -1,12 +1,12 @@
 ---
-title: How can decentralized finance and stablecoins make the euro more competitive?
+title: What are our concrete EU advocacy goals for the next five years?
 description: An overview of the plans for regulating crypto assets in the EU
 lang: en
 template: use-cases
 emoji: ":handshake:"
 sidebar: true
 sidebarDepth: 2
-image: ../../assets/use-cases/dao-2.png
+image: ../../../assets/use-cases/dao-2.png
 alt: "A representation of a DAO voting on a proposal."
 summaryPoints:
   [
@@ -16,7 +16,7 @@ summaryPoints:
   ]
 ---
 
-## How can crypto assets and stablecoins make the euro more competitive? {#stablecoins}
+## What risks do crypto assets pose to AML and tax advoidance and how can this be prevented? {#crypto-asset-risks}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vestibulum nisi neque, a vehicula risus efficitur sit amet. Nulla quis viverra tortor, id accumsan massa. Aenean at efficitur augue. Maecenas accumsan dictum mattis. Suspendisse non consectetur sapien. Suspendisse blandit augue erat, at varius ligula blandit a. Ut egestas metus ac commodo feugiat. Nunc semper ligula rhoncus nunc tristique rhoncus. Proin felis leo, aliquam in fermentum et, finibus vel tellus. Morbi lacinia dui convallis massa tempus faucibus. Maecenas porttitor a enim eget tempus.
 

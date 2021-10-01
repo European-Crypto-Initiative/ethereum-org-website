@@ -6,7 +6,7 @@ template: use-cases
 emoji: ":handshake:"
 sidebar: true
 sidebarDepth: 2
-image: ../../assets/use-cases/dao-2.png
+image: ../../../assets/use-cases/dao-2.png
 alt: "A representation of a DAO voting on a proposal."
 summaryPoints:
   [

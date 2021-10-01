@@ -1,12 +1,12 @@
 ---
-title: What are our concrete EU advocacy goals for the next five years?
+title: How can cryptocurrencies contribute to the EU’s policy of ‘open strategic autonomy’?
 description: An overview of the plans for regulating crypto assets in the EU
 lang: en
 template: use-cases
 emoji: ":handshake:"
 sidebar: true
 sidebarDepth: 2
-image: ../../assets/use-cases/dao-2.png
+image: ../../../assets/use-cases/dao-2.png
 alt: "A representation of a DAO voting on a proposal."
 summaryPoints:
   [
@@ -16,7 +16,7 @@ summaryPoints:
   ]
 ---
 
-## What risks do crypto assets pose to AML and tax advoidance and how can this be prevented? {#crypto-asset-risks}
+## How can cryptocurrencies contribute to the EU’s policy of ‘open strategic autonomy’? {#stategic-autonomy}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vestibulum nisi neque, a vehicula risus efficitur sit amet. Nulla quis viverra tortor, id accumsan massa. Aenean at efficitur augue. Maecenas accumsan dictum mattis. Suspendisse non consectetur sapien. Suspendisse blandit augue erat, at varius ligula blandit a. Ut egestas metus ac commodo feugiat. Nunc semper ligula rhoncus nunc tristique rhoncus. Proin felis leo, aliquam in fermentum et, finibus vel tellus. Morbi lacinia dui convallis massa tempus faucibus. Maecenas porttitor a enim eget tempus.
 
